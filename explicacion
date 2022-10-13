@@ -1,1 +1,11 @@
-ghola
+la calibracion comienza apenas se prende el robot con el switch
+
+como todos los leds se quemaron, usamos el led interno del nano para indicar que la calibracion termino, la bateria lo tapa asi que se complica fijarse si termino,
+asi que por las dudas yo lo dejo calibrando mucho tiempo.
+
+cuando termina la calibracion el robot arranca al presionar y sooltar ell boton de adelante
+
+la bateria va con el positivo apuntando hacia la punta del robot, le hicier un menos con un cutter a GND.
+
+
+
